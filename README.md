@@ -1,2 +1,4 @@
-# regioniso3c
- Unofficial regional - iso3c mapping
+# Unofficial regional - iso3c mapping
+
+This CSV file provides an unofficial consistent mapping across regional definitions.
+
